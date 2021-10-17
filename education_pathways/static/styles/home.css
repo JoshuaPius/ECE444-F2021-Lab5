@@ -1,1 +1,9 @@
-wait
+#home-page-introduction {
+	margin: 40px auto;
+}
+#home-page-feedback-text {
+	margin-top: 20px;
+	font-style: italic;
+	background: #353535;
+    	opacity: 0.7;
+}
