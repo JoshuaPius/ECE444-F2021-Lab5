@@ -30,3 +30,7 @@ I made my commits as I completed the code. Hence the multiple images.
 ![Screen Shot 2021-10-16 at 11 24 12 PM](https://user-images.githubusercontent.com/49081873/137609635-753996e9-23ae-4d21-bf8f-f8099afc920e.png)
 ![Screen Shot 2021-10-17 at 12 14 46 AM](https://user-images.githubusercontent.com/49081873/137611004-0d820458-2035-4748-974d-3bbef8dc9e6f.png)
 ![Screen Shot 2021-10-17 at 12 27 55 AM](https://user-images.githubusercontent.com/49081873/137611355-0d64ace8-ca86-4606-aa4b-f67812dc11bb.png)
+
+
+## Activity 6: Commit all changes
+The results table is the feature I will be speaking on. The initial UI made the information in this section impossible to follow there were no line separation/borders. The text in course description for multiple courses would blend together. However, now the information is very well presented, the color coding makes it appealing to look at and the information doesn't seem as intimidating and disorganized. Also the section is titled which adds a much needed level of clarity.
