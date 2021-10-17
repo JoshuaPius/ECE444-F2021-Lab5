@@ -13,3 +13,9 @@ Cloning Education Pathways Repo
 Screenshot of the commit and files created
 ![Screen Shot 2021-10-16 at 10 35 59 PM](https://user-images.githubusercontent.com/49081873/137608399-3396f101-d6e9-41a3-8acf-6034404e570c.png)
 
+## Make the following changes in HTML files
+Screenshot of the main page and search page
+![Screen Shot 2021-10-16 at 11 22 09 PM](https://user-images.githubusercontent.com/49081873/137609597-2c9f9370-0866-47fe-9677-163c082b2179.png)
+![Screen Shot 2021-10-16 at 11 22 33 PM](https://user-images.githubusercontent.com/49081873/137609609-4d1e9a89-b809-4784-be2f-5db7f35a8735.png)
+![Screen Shot 2021-10-16 at 11 24 12 PM](https://user-images.githubusercontent.com/49081873/137609635-753996e9-23ae-4d21-bf8f-f8099afc920e.png)
+
